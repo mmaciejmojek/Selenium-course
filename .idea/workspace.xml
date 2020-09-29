@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0367c13-0363-47da-a203-c8a59e1e53b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumScreenshots/Screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestingProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Accordion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Autocomplete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Datepicker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Dragable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Droppable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Form.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/HighSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/ModalDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Progressbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Selectable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/SelectableWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Slider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Tooltip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/WindowsTabs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/AccordionTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/AlertsTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/AutocompleteTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/DatepickerTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/DragableTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/DroppableTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/FormTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/HighSiteTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/IframesTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/MenuTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/ModalDialogTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/ProgressbarTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/ResizableTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/SelectableWidgetTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/SelectablesTestset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/SliderTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/TablesTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/TooltipTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsets/WindowsTabsTestSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/TestingProject.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/Accordion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/Alerts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/Autocomplete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/Datepicker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/Dragable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/Droppable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/Form.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/HighSite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/Iframe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/ModalDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/Progressbar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/Selectable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/SelectableWidget.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/Slider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/Tooltip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/WindowsTabs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/TestingProject.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/AccordionTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/AlertsTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/AutocompleteTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/DatepickerTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/DragableTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/DroppableTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/FormTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/HighSiteTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/IframesTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/MenuTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/ModalDialogTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/ProgressbarTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/ResizableTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/SelectableWidgetTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/SelectablesTestset.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/SliderTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/TablesTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/TooltipTestSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testsets/WindowsTabsTestSet.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gbFxMY9P6S89rTBDATc8Oozyv8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="testsets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.DatepickerTestSet.datePick">
+    <configuration name="AccordionTestSet.AccordinTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsets" />
+      <option name="MAIN_CLASS_NAME" value="testsets.AccordionTestSet" />
+      <option name="METHOD_NAME" value="AccordinTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatepickerTestSet.datePick" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsets" />
+      <option name="MAIN_CLASS_NAME" value="testsets.DatepickerTestSet" />
+      <option name="METHOD_NAME" value="datePick" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DragableTestSet.dragableTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsets" />
+      <option name="MAIN_CLASS_NAME" value="testsets.DragableTestSet" />
+      <option name="METHOD_NAME" value="dragableTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HighSiteTestSet.highSiteTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsets" />
+      <option name="MAIN_CLASS_NAME" value="testsets.HighSiteTestSet" />
+      <option name="METHOD_NAME" value="highSiteTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TablesTestSet.form" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsets" />
+      <option name="MAIN_CLASS_NAME" value="testsets.TablesTestSet" />
+      <option name="METHOD_NAME" value="form" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DatepickerTestSet.datePick" />
+        <item itemvalue="TestNG.AccordionTestSet.AccordinTest" />
+        <item itemvalue="TestNG.DragableTestSet.dragableTest" />
+        <item itemvalue="TestNG.TablesTestSet.form" />
+        <item itemvalue="TestNG.HighSiteTestSet.highSiteTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0367c13-0363-47da-a203-c8a59e1e53b8" name="Default Changelist" comment="" />
+      <created>1598375630153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598375630153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/testsets/FormTestSet.java</url>
+          <line>32</line>
+          <properties class="testsets.FormTestSet" method="form">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/testsets/AutocompleteTestSet.java</url>
+          <line>41</line>
+          <properties class="testsets.AutocompleteTestSet" method="autocomplete">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pageObject/Accordion.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
